@@ -1,2 +1,2 @@
 # hello-world
-Jest saying hi.
+Just saying hi.
